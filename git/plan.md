@@ -1,4 +1,4 @@
-# Course Plan - Git & git.embl.de
+# Course Plan - Git & GitHub
 
 ## Introduction
 
@@ -57,7 +57,7 @@
 - one more change - "add salt to taste" to instructions
 - `git add`
 - `git reset HEAD instructions.txt`
-- diagram on slide 
+- diagram on slide
 - `git commit -m`
 - mention `git commit -a` & warn about hazards of using it
 - `git log`
